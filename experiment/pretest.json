@@ -2,37 +2,20 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1) What is the primary purpose of the VR Interaction Showcase experiment?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To explore chemistry reactions in VR",
+        "b": "To understand different VR interaction techniques",
+        "c": "To test new VR headsets",
+        "d": "To develop a new VR game"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect. This experiment focuses on VR interactions, not chemistry.",
+        "b": "Correct. The goal of the experiment is to educate users on different VR interaction techniques.",
+        "c": "Incorrect. The experiment is about VR interactions, not hardware testing.",
+        "d": "Incorrect. While the knowledge gained can be applied in game development, the experiment is not about game creation"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
