@@ -1,1 +1,1 @@
-## Experiment name
+## Basic concept, principles and multidisciplinary features of Virtual Reality
