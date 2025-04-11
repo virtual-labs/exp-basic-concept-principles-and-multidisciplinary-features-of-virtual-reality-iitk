@@ -17,6 +17,74 @@
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
+    },
+    {
+      "question": "2) What is a key factor in making VR experiences immersive? ",
+      "answers": {
+        "a": "High-resolution textures only ",
+        "b": "Interactive mechanics like locomotion and grabbing  ",
+        "c": "Using 2D screens instead of headsets ",
+        "d": "Reducing the number of user interactions "
+      },
+      "explanations": {
+        "a": "Incorrect – High-resolution textures help, but interactions are key to immersion. ",
+        "b": "Correct – Mechanics like locomotion, grabbing, and physics-based interactions enhance immersion. ",
+        "c": "Incorrect – 2D screens do not provide full immersion like VR headsets. ",
+        "d": "Incorrect – More interactions improve engagement, not reduce it. "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "3) What is gaze interaction primarily used for in VR? ",
+      "answers": {
+        "a": "Moving the player around the virtual environment ",
+        "b": "Selecting objects or triggering actions by looking at them ",
+        "c": "Rendering high-quality textures in real-time ",
+        "d": "Controlling the brightness of the VR display "
+      },
+      "explanations": {
+        "a": "Incorrect – Movement is controlled through locomotion techniques, not gaze interaction. ",
+        "b": "Correct – Gaze interaction is used to select objects or trigger actions based on where the user is looking. ",
+        "c": "Incorrect – Rendering is a game engine function, not related to gaze interaction. ",
+        "d": "Incorrect – Brightness settings are controlled separately, not through gaze interaction. "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "4) Which game engine is commonly used for VR development? ",
+      "answers": {
+        "a": "Photoshop ",
+        "b": "Unity ",
+        "c": "Blender ",
+        "d": "After Effects "
+      },
+      "explanations": {
+        "a": "Incorrect – Photoshop is an image editing tool, not a game engine. ",
+        "b": "Correct – Unity is widely used for VR development due to its XR tools and capabilities. ",
+        "c": "Incorrect – Blender is for 3D modeling but not for real-time VR development. ",
+        "d": "Incorrect – After Effects is for motion graphics, not VR development. "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "5) What is the purpose of physics-based interactions in VR? ",
+      "answers": {
+        "a": "To create realistic object behavior based on forces like gravity  ",
+        "b": "To improve the graphical quality of the VR environment ",
+        "c": "To make the user move faster in the virtual world ",
+        "d": "To change the VR headset’s resolution "
+      },
+      "explanations": {
+        "a": "Correct – Physics-based interactions allow objects to behave realistically in response to forces. ",
+        "b": "Incorrect – Graphics quality is separate from physics simulations. ",
+        "c": "Incorrect – Movement speed is controlled by locomotion mechanics, not physics interactions. ",
+        "d": "Incorrect – Resolution is adjusted through hardware settings, not physics simulations. "
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
     }
   ]
 }
