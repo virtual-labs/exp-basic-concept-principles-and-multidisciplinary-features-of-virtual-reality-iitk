@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1) What interaction technique allows users to select distant objects in VR?",
+      "answers": {
+        "a": "Grab Interaction",
+        "b": "Locomotion",
+        "c": "Ray Interaction",
+        "d": "Climbing"
+      },
+      "explanations": {
+        "a": "Incorrect. Grab interaction is used for picking up nearby objects.",
+        "b": "Incorrect. Locomotion refers to movement in VR.",
+        "c": "Correct. Ray interaction allows users to point and select distant objects.",
+        "d": "Incorrect. Climbing is related to movement in vertical environments."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+      {
+      "question": "2) What is locomotion in VR?",
+      "answers": {
+        "a": "A technique for adjusting the lighting in VR ",
+        "b": "A method for moving around in a virtual environment  ",
+        "c": "A system for rendering shadows ",
+        "d": "A way to control object scaling in 3D modeling "
+      },
+      "explanations": {
+        "a": "Incorrect – Lighting adjustments are separate from locomotion. ",
+        "b": "Correct – Locomotion allows users to navigate within a VR space. ",
+        "c": "Incorrect – Rendering shadows is part of graphical processing, not locomotion. ",
+        "d": "Incorrect – Object scaling is a modeling tool, not a movement technique. "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+          {
+      "question": "3) What is the role of socket interaction in VR?",
+      "answers": {
+        "a": "To attach virtual objects to predefined positions ",
+        "b": "To create lighting effects in VR ",
+        "c": "To track head movement ",
+        "d": "To display UI elements on the screen "
+      },
+      "explanations": {
+        "a": "Correct – Socket interaction allows objects to snap to predefined positions in VR environments. ",
+        "b": "Incorrect – Lighting effects are separate from object interactions. ",
+        "c": "Incorrect – Head tracking is handled by the VR headset, not socket interaction. ",
+        "d": "Incorrect – UI elements are controlled separately, not through socket interaction. "
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+          {
+      "question": "4) What is the primary function of a VR menu UI?",
+      "answers": {
+        "a": "To manage real-world device settings ",
+        "b": "To provide users with interactive navigation and control options in VR   ",
+        "c": "To simulate real-world weather conditions ",
+        "d": "To replace the need for controllers"
+      },
+      "explanations": {
+        "a": "Incorrect – VR UI manages in-game settings, not real-world device settings. ",
+        "b": "Correct – VR menus allow users to navigate options and control settings within the virtual environment ",
+        "c": "Incorrect – Weather simulation is separate from UI functionality. ",
+        "d": "Incorrect – Controllers are still required for interaction in most VR systems. "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+          {
+      "question": "5) How does climbing interaction work in VR?",
+      "answers": {
+        "a": "By using ray interaction to point at objects ",
+        "b": "By grabbing handholds and pulling the user upwards   ",
+        "c": "By adjusting gravity settings in the physics engine ",
+        "d": "By increasing the field of view (FOV) "
+      },
+      "explanations": {
+        "a": "Incorrect – Ray interaction is used for distant object selection, not climbing. ",
+        "b": "Correct – Climbing mechanics allow users to grab handholds and pull themselves up in VR. ",
+        "c": "Incorrect – Gravity adjustments affect object physics but do not define climbing mechanics. ",
+        "d": "Incorrect – Field of view adjustments do not enable climbing. "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
