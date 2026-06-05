@@ -1,1 +1,1 @@
-### Aim of the experiment
+To educate users on essential VR interactions and the principles that make VR immersive and engaging through hands-on experience in a virtual playground.

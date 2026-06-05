@@ -2,37 +2,88 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1) What is the primary purpose of the VR Interaction Showcase experiment?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To explore chemistry reactions in VR",
+        "b": "To understand different VR interaction techniques",
+        "c": "To test new VR headsets",
+        "d": "To develop a new VR game"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect. This experiment focuses on VR interactions, not chemistry.",
+        "b": "Correct. The goal of the experiment is to educate users on different VR interaction techniques.",
+        "c": "Incorrect. The experiment is about VR interactions, not hardware testing.",
+        "d": "Incorrect. While the knowledge gained can be applied in game development, the experiment is not about game creation"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2) What is a key factor in making VR experiences immersive? ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "High-resolution textures only ",
+        "b": "Interactive mechanics like locomotion and grabbing  ",
+        "c": "Using 2D screens instead of headsets ",
+        "d": "Reducing the number of user interactions "
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect – High-resolution textures help, but interactions are key to immersion. ",
+        "b": "Correct – Mechanics like locomotion, grabbing, and physics-based interactions enhance immersion. ",
+        "c": "Incorrect – 2D screens do not provide full immersion like VR headsets. ",
+        "d": "Incorrect – More interactions improve engagement, not reduce it. "
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "3) What is gaze interaction primarily used for in VR? ",
+      "answers": {
+        "a": "Moving the player around the virtual environment ",
+        "b": "Selecting objects or triggering actions by looking at them ",
+        "c": "Rendering high-quality textures in real-time ",
+        "d": "Controlling the brightness of the VR display "
+      },
+      "explanations": {
+        "a": "Incorrect – Movement is controlled through locomotion techniques, not gaze interaction. ",
+        "b": "Correct – Gaze interaction is used to select objects or trigger actions based on where the user is looking. ",
+        "c": "Incorrect – Rendering is a game engine function, not related to gaze interaction. ",
+        "d": "Incorrect – Brightness settings are controlled separately, not through gaze interaction. "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "4) Which game engine is commonly used for VR development? ",
+      "answers": {
+        "a": "Photoshop ",
+        "b": "Unity ",
+        "c": "Blender ",
+        "d": "After Effects "
+      },
+      "explanations": {
+        "a": "Incorrect – Photoshop is an image editing tool, not a game engine. ",
+        "b": "Correct – Unity is widely used for VR development due to its XR tools and capabilities. ",
+        "c": "Incorrect – Blender is for 3D modeling but not for real-time VR development. ",
+        "d": "Incorrect – After Effects is for motion graphics, not VR development. "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "5) What is the purpose of physics-based interactions in VR? ",
+      "answers": {
+        "a": "To create realistic object behavior based on forces like gravity  ",
+        "b": "To improve the graphical quality of the VR environment ",
+        "c": "To make the user move faster in the virtual world ",
+        "d": "To change the VR headset’s resolution "
+      },
+      "explanations": {
+        "a": "Correct – Physics-based interactions allow objects to behave realistically in response to forces. ",
+        "b": "Incorrect – Graphics quality is separate from physics simulations. ",
+        "c": "Incorrect – Movement speed is controlled by locomotion mechanics, not physics interactions. ",
+        "d": "Incorrect – Resolution is adjusted through hardware settings, not physics simulations. "
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
